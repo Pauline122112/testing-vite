@@ -1,15 +1,13 @@
-
 {
   "name": "testing-vite",
   "version": "1.0.0",
   "description": "Testing out Vite",
   "main": "index.js",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "serve": "vite preview"
-},
-
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Pauline122112/testing-vite.git"
@@ -22,6 +20,8 @@
   },
   "homepage": "https://github.com/Pauline122112/testing-vite#readme",
   "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "vite": "^5.4.11"
   }
 }
