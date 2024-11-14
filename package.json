@@ -1,11 +1,15 @@
+
 {
   "name": "testing-vite",
   "version": "1.0.0",
   "description": "Testing out Vite",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Pauline122112/testing-vite.git"
