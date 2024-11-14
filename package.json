@@ -1,0 +1,23 @@
+{
+  "name": "testing-vite",
+  "version": "1.0.0",
+  "description": "Testing out Vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauline122112/testing-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pauline122112/testing-vite/issues"
+  },
+  "homepage": "https://github.com/Pauline122112/testing-vite#readme",
+  "dependencies": {
+    "vite": "^5.4.11"
+  }
+}
